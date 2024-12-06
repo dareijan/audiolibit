@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audiolibit/static/css/main.26720634.css",
+    "main.js": "/audiolibit/static/js/main.c0316e09.js",
+    "static/js/453.e2461298.chunk.js": "/audiolibit/static/js/453.e2461298.chunk.js",
+    "index.html": "/audiolibit/index.html",
+    "main.26720634.css.map": "/audiolibit/static/css/main.26720634.css.map",
+    "main.c0316e09.js.map": "/audiolibit/static/js/main.c0316e09.js.map",
+    "453.e2461298.chunk.js.map": "/audiolibit/static/js/453.e2461298.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26720634.css",
+    "static/js/main.c0316e09.js"
+  ]
+}
