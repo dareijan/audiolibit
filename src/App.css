@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +36,46 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.harmaannettu {
+  filter: grayscale(100%); 
+}
+
+.vapaana {
+  color:pink;
+}
+td {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Courier New', Courier, monospace, Georgia, 'Times New Roman', Times, serif; /*, sans-serif Garde, Helvetica;*/
+  letter-spacing: 0.5mm;
+  height: 70px;
+  padding: 10px;
+}
+
+/*tr
+{
+  line-height: 20px;
+}
+*/
+@media only screen and (max-width: 500px) and (orientation : landscape) {    
+
+.kirjatspan {
+  text-align: left;
+  line-height: 2;
+  margin: 50px;    
+  margin-top: 50px;         
+}
+}
+
+@media only screen and (min-width: 501px) and (orientation : landscape) {    
+
+.kirjatspan {
+  text-align: left;
+  margin: 10px;     
+}
+}
+
+.intro {
+  line-height: 5cap;
+  text-align: center;
 }
